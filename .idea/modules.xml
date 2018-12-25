@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SSM/SSM.iml" filepath="$PROJECT_DIR$/../SSM/SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Springdemo1hw/Springdemo1hw.iml" filepath="$PROJECT_DIR$/../Springdemo1hw/Springdemo1hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Springmybatis/Springmybatis.iml" filepath="$PROJECT_DIR$/../Springmybatis/Springmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mbatisdemo2/mbatisdemo2.iml" filepath="$PROJECT_DIR$/../mbatisdemo2/mbatisdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mdemo1.iml" filepath="$PROJECT_DIR$/mdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mdemo2/mdemo2.iml" filepath="$PROJECT_DIR$/../mdemo2/mdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../member/member.iml" filepath="$PROJECT_DIR$/../member/member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../member1/member1.iml" filepath="$PROJECT_DIR$/../member1/member1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatisdemo3/mybatisdemo3.iml" filepath="$PROJECT_DIR$/../mybatisdemo3/mybatisdemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatisdemo4/mybatisdemo4.iml" filepath="$PROJECT_DIR$/../mybatisdemo4/mybatisdemo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm/ssm1.iml" filepath="$PROJECT_DIR$/../ssm/ssm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssmtest/ssmtest.iml" filepath="$PROJECT_DIR$/../ssmtest/ssmtest.iml" />
+    </modules>
+  </component>
+</project>

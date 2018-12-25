@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../mbatisdemo2" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../mdemo2" />
+    <file type="web" url="file://$PROJECT_DIR$/../member" />
+    <file type="web" url="file://$PROJECT_DIR$/../member1" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatisdemo3" />
+    <file type="web" url="file://$PROJECT_DIR$/../mybatisdemo4" />
+    <file type="web" url="file://$PROJECT_DIR$/../Springdemo1" />
+    <file type="web" url="file://$PROJECT_DIR$/../Springdemo1hw" />
+    <file type="web" url="file://$PROJECT_DIR$/../Springmybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssmdemo" />
+    <file type="web" url="file://$PROJECT_DIR$/../ssmtest" />
+    <type id="Spring" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisdemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../mdemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../mybatisdemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/../Springdemo1hw/pom.xml" />
+        <option value="$PROJECT_DIR$/../Springmybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../member/pom.xml" />
+        <option value="$PROJECT_DIR$/../member1/pom.xml" />
+        <option value="$PROJECT_DIR$/../ssmtest/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (3)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

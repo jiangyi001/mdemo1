@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mbatisdemo2" />
+        <module name="mdemo1" />
+        <module name="mdemo2" />
+        <module name="member" />
+        <module name="member1" />
+        <module name="mybatisdemo4" />
+        <module name="Springdemo1hw" />
+        <module name="Springmybatis" />
+        <module name="ssm1" />
+        <module name="ssmtest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="mbatisdemo2" target="1.8" />
+      <module name="mdemo1" target="1.8" />
+      <module name="mdemo2" target="1.8" />
+      <module name="member" target="1.8" />
+      <module name="member1" target="1.8" />
+      <module name="mybatisdemo2" target="1.7" />
+      <module name="mybatisdemo3" target="1.8" />
+      <module name="mybatisdemo4" target="1.8" />
+      <module name="Springdemo1" target="1.8" />
+      <module name="Springdemo1hw" target="1.8" />
+      <module name="Springmybatis" target="1.8" />
+      <module name="SSM" target="1.8" />
+      <module name="ssm1" target="1.8" />
+      <module name="ssmdemo" target="1.7" />
+      <module name="ssmtest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
